@@ -1,0 +1,14 @@
+string1 = "JJJJJ    CCC"
+print(string1)
+string2 = "  J     C   C"
+print(string2)
+string3 = "  J     C"
+print(string3)
+string4 = "  J     C" 
+print(string4)   
+string5 = "J J     C"
+print(string5)
+string6 = "J J     C   C"
+print(string6)
+string7 = " JJ      CCC"
+print(string7)
